@@ -141,8 +141,8 @@ void setup() {
 
   myKbd.addRow();
 
-  myKbd.addButton("Estado Porton");
-  myKbd.addButton("Estado Timbre");
+  myKbd.addButton("EstadoPorton");
+  myKbd.addButton("EstadoTimbre");
 
   myKbd.enableResize();
 
